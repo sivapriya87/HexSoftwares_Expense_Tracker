@@ -31,7 +31,6 @@ How to Run the Program
 Ensure you have Python 3 installed on your system.
 Copy the provided code into a Python file (e.g., expense_tracker.py).
 Run the script by executing the command:
-Copy code
 python expense_tracker.py
 Follow the on-screen menu to interact with the program.
 Menu Options
@@ -46,7 +45,6 @@ Dependencies
 Python 3.x (no external libraries required)
 Example Usage
 bash
-Copy code
 1. Add Expense
 2. View Expenses
 3. View Summary
